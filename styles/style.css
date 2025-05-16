@@ -161,6 +161,11 @@ body {
     border-radius: 15px;
 }
 
+.imagem__principal {
+    width: 40%;
+    border-radius: 15px;
+}
+
 .rodape {
     padding: 10px 0px 0px 0px;
     text-align: center;
