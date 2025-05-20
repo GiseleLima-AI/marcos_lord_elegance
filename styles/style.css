@@ -170,7 +170,7 @@ body {
     padding: 5%;
     max-width: 35%;
     height: auto;
-    border-radius: 15%;
+    border-radius: 20%;
 }
 
 .rodape {
@@ -230,14 +230,14 @@ body {
     }
     
     .imagem__principal {
-        width: 80%;
+        width: 60%;
         border-radius: 10%;
     }
 
     .imagem__geral {
         max-width: 70%;
         height: auto;
-        border-radius: 10%;
+        border-radius: 20%;
         text-align: center;
     }
         
