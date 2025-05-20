@@ -222,24 +222,28 @@ body {
 
     .apresentacao {
         flex-direction: column-reverse;
-        padding: 5%;
+        padding: 1%;
     }
 
-.imagem__principal {
-    width: 80%;
-    border-radius: 10px;
-}
-
-.imagem__geral {
-    max-width: 70%;
-    height: auto;
-    border-radius: 10px;
-    text-align: center;
-}
+    .apresentacao__conteudo {
+        width: 90%;
+    }
     
-.apresentacao__imagem {
-    width: 100%;
-}
+    .imagem__principal {
+        width: 80%;
+        border-radius: 10px;
+    }
+
+    .imagem__geral {
+        max-width: 70%;
+        height: auto;
+        border-radius: 10px;
+        text-align: center;
+    }
+        
+    .apresentacao__imagem {
+        width: 100%;
+    }
     .apresentacao__conteudo {
         width: 80%;
     }
