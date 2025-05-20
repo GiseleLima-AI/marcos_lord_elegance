@@ -80,6 +80,7 @@ body {
     font-size:1.2rem;
     font-weight: 200;
     font-family: var(--fonte-secundaria);
+    text-align: center;
 }
 .titulo_nome {
     padding: 5% 5%;
