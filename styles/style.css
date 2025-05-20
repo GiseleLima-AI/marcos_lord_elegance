@@ -217,7 +217,12 @@ body {
         flex-direction: column-reverse;
         padding: 5%;
     }
-    
+
+.imagem__principal {
+    width: 80%;
+    border-radius: 10px;
+}
+
 .apresentacao__imagem {
     width: 100%;
 }
