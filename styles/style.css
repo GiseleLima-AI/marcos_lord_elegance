@@ -3,7 +3,7 @@
 :root {
     --cor-primaria: #171515;
     --cor-secundaria: #f6f6f6;
-    --cor-terciaria: #22d4fd;
+    --cor-terciaria: #dd5913;
     --cor-hover: #272727;
     --fonte-primaria: "Krona One", sans-serif;
     --fonte-secundaria: 'Montserrat', sans-serif;
@@ -17,7 +17,7 @@
     :root {
         --cor-primaria:#f6f6f6;
         --cor-secundaria:  #171515;
-        --cor-terciaria: #22d4fd;
+        --cor-terciaria: #dd5913;
         --cor-hover: #272727;
     }
 
