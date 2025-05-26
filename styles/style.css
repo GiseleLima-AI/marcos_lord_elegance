@@ -235,12 +235,12 @@ body {
 }
     
     .imagem__principal {
-        width: 60%;
+        width: 35%;
         border-radius: 10%;
     }
 
     .imagem__geral {
-        max-width: 70%;
+        max-width: 50%;
         height: auto;
         border-radius: 20%;
         text-align: center;
