@@ -21,7 +21,7 @@
         --cor-hover: #272727;
     }
 
-    html{
+    html{ 
         color-scheme: light;
     }
 }
@@ -163,8 +163,8 @@ body {
 }
 
 .imagem__principal {
-    width: 50%;
-    border-radius: 10%;
+    width: 35%;
+    border-radius: 50%;
 }
 
 .imagem__geral {
@@ -235,9 +235,8 @@ body {
 }
     
     .imagem__principal {
-        width: 35%;
-        border-radius: 10%;
-    }
+        width: 60%;
+}
 
     .imagem__geral {
         max-width: 50%;
